@@ -25,7 +25,7 @@ final-exam/
 
 ## Output
 
-
+![output.png](./output.png)
 
 ## Is this project 100% correctly implemented?
 
